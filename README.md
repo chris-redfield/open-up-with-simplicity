@@ -14,3 +14,5 @@ Introdução a ferramentas - desmistificando os dados abertos
 ## APIs - por que e como? ##
 
 ## Exercício práctico ##
+
+## Referências ##
