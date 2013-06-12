@@ -47,6 +47,15 @@ Por último, pode ser vantajoso padronizar URLs de acesso aos arquivos de dados:
 
 ## Catálogos de dados e o CKAN ##
 
+Ideias de conteúdo para essa seção:
+
+Falar rapidamente sobre serviços e prestadores de serviços de dados abertos:
+* SOCRATA
+* JUNAR
+* CKAN
+
+On a tight budget ? go for open source software!
+
 ## APIs - por que e como? ##
 
 ## Exercício práctico ##
