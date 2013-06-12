@@ -37,7 +37,7 @@ Como é de conhecimento de todos, o canal mais democrático e de maior permeabil
 &nbsp;
 ![WEB](http://www.pr-vantage.com/wp-content/uploads/2010/12/Web-Connection-300x232.jpg)
 
-Falando da web, é fundamenta, falande de dados abertos, seguir algumas considerações do seu criador (Sir Tim Berners Lee) e de pesquisadores como Roy Fielding, que defendem sua utilização de forma simples e direta:
+Considerando que queremos facilitar o trabalho dos nossos consumidores e que para isso selecionamos a web, é fundamental seguir algumas considerações do seu criador (Sir Tim Berners Lee) e de pesquisadores como Roy Fielding, que defendem sua utilização de forma simples e direta:
 * Disponibilizá-lo em uma URL fixa, para que qualquer pessoa possa encontrá-lo e compartilhá-lo com terceiros;
 * Não utilizar abstrações adicionais de outros protocolos, permitindo que qualquer aplicação possa chegar ao arquivo sem muitas complicações;
 
