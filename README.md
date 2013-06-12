@@ -1,7 +1,7 @@
 ﻿Introdução a ferramentas - desmistificando os dados abertos
 ===========================================================
 
-> A simplicidade é o último grau de sofisticação.
+> "A simplicidade é o último grau de sofisticação."
 > Leonardo da Vinci
 
    Antes de mergulhar nas ferramentas e metodologias mais aclamadas para a publicação de dados abertos, é importante voltarmos aos objetivos desse modelo de publicação: por que publicar dados abertos?
@@ -11,6 +11,10 @@
    Nessa parte do curso o aluno será orientado a buscar a simplicidade para agilizar a publicação de dados e conhecer ferramentas que facilitam esse trabalho.
 
 ## Das Planilhas locais para dados na web ##
+
+### Formatos ###
+
+![Brinquedo de formas de crianças](http://4.bp.blogspot.com/-QmNc--UT8NM/UJGHobnbzDI/AAAAAAAAAXY/6_lVMxtrx-c/s1600/wooden_toy_shape_sorter_block_box.jpg)
 
 Dentre as formas de se publicar dados abertos, a que consideramos mais simples é utilizar formatos de planilha:
 * .csv
@@ -24,6 +28,22 @@ Como estamos falando de dados abertos, aconselhamos fortemente a publicação em
 * todos com exceção do .xls !
 
 Por fim, se queremos publicar dados em formatos simples e tamanhos pequenos, façamos como o <http://datos.gub.uy/> : csv compactado!
+
+### Onde e porque ###
+
+Como é de conhecimento de todos, o canal mais democrático e de maior permeabilidade da atualidade é a web! É na web lá que qualquer pessoa do mundo pode ter acesso aos dados que disponibilizamos com qualquer navegador.
+
+![Tim Berners Lee](http://www.scientificamerican.com/media/inline/the-mind-behind-the-web_1.jpg)
+&nbsp;
+![WEB](http://www.pr-vantage.com/wp-content/uploads/2010/12/Web-Connection-300x232.jpg)
+
+Falando da web, é fundamenta, falande de dados abertos, seguir algumas considerações do seu criador (Sir Tim Berners Lee) e de pesquisadores como Roy Fielding, que defendem sua utilização de forma simples e direta:
+* Disponibilizá-lo em uma URL fixa, para que qualquer pessoa possa encontrá-lo e compartilhá-lo com terceiros;
+* Não utilizar abstrações adicionais de outros protocolos, permitindo que qualquer aplicação possa chegar ao arquivo sem muitas complicações;
+
+Hoje qualquer web service ou ferramenta pronta de catalogação permite que se compartilhe dados em URLs fixas, ou persistentes
+
+Por último, pode ser vantajoso padronizar URLs de acesso aos arquivos de dados: essa abordagem facilita o trabalho de crawlers, desenvolvedores, da google do yahoo e de muitas outras pessoas quando buscando pelos nossos dados (TODO -- BUSCAR EXEMPLOS E REFERENCIAS)
 
 ## Catálogos de dados e o CKAN ##
 
