@@ -56,6 +56,8 @@ Esse exemplo não demonstra a organização nas URLs de conjuntos de dados, mas 
 
 ## Catálogos de dados e o CKAN ##
 
+
+
 Ideias de conteúdo para essa seção:
 
 Falar rapidamente sobre serviços e prestadores de serviços de dados abertos:
@@ -74,7 +76,7 @@ On a tight budget ? go for open source software!
 ### Protocolo de interoperabilidade de catálogo de dados ###
 > Data Catalog Interoperability Protocol
 
-![OKFN's DCIP](Protocolo de interoperabilidade de catálogo de dados - Data Catalog Interoperability Protocol)
+![OKFN's DCIP](https://photos-4.dropbox.com/t/0/AAANtsg7lmKJfZtd5Y0Z0JiR07oQVJ4huCRxrqvLivNS2Q/12/18364240/jpeg/32x32/3/_/1/2/DCIP.jpg/6XHdLEkNdUi5KZ0-07i5v4l7dlMQXx6J1CEWK8qbVTI?size=1024x768)
 
 ## Exercício práctico ##
 
