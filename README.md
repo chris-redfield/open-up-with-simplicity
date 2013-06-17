@@ -68,8 +68,8 @@ Em muitas palavras - um mecanismo, ferramenta ou serviço que faz a gestão e pu
 
 A funcionalidade básica de um catálogo de dados é então permitir: a busca, inclusão, alteração e exclusão desses metadados. 
 As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada vez mais funcionalidades:
-* integração com sistemas de gestão de conteúdo (CMS como wordpress, joomla, drupal, plone etc) ou seus próprios sistemas de gestão de conteúdo
-* possibilidade de visualização dos dados catalogados
+* Integração com sistemas de gestão de conteúdo (CMS como wordpress, joomla, drupal, plone etc) ou seus próprios sistemas de gestão de conteúdo
+* Possibilidade de visualização dos dados catalogados
 * Controle de acesso a partes dos conjuntos de dados disponibilizados (acesso)
 * Controle de acesso descentralizado para inclusão e edição de metadados, permitindo delegação por organizações e usuários
 * Hospedagem de arquivos
@@ -82,19 +82,19 @@ Soluções conhecidas:
 * Junar (Junar)
 * CKAN (OKFN)
 
-### Socrata ### 
+### Socrata ###
 
 #### Principais características ####
 
 #### Quem usa? ###
 
-### Junar ### 
+### Junar ###
 
 #### Principais características ####
 
 #### Quem usa? ###
 
-### CKAN ### 
+### CKAN ###
 
 #### Principais características ####
 
