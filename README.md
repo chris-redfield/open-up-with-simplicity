@@ -52,6 +52,8 @@ Um grande exemplo de organização da informação nas URLs é o caso do governo
 3. Página inicial para serviços de trabalho e pensão: <https://www.gov.uk/browse/working>
 4. Página inicial da parceria Reino Unido e Brasil: <https://www.gov.uk/government/world/brazil>
 
+Esse exemplo não demonstra a organização nas URLs de conjuntos de dados, mas mostra que nas páginas do governo britânico existe na nomenclatura das páginas de serviços, uma padronização. Ainda mostra, além dessa padronização, a tentativa de agregar significado às URLs, para que elas sejam intuitivas para quem for utilizar.
+
 ## Catálogos de dados e o CKAN ##
 
 Ideias de conteúdo para essa seção:
