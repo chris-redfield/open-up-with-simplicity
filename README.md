@@ -76,18 +76,23 @@ As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada ve
 * Transformação de arquivos
 * APIs de acesso automatizado
 
-Soluções conhecidas:
+### Soluções conhecidas: ###
 
 * Socrata (Socrata)
 * Junar (Junar)
 * CKAN (OKFN)
+
+__Observações:__ 
+* Essas são as soluções de mercado de maior destaque atualmente. Na verdade, devo esclarecer que são as únicas que conheço. Caso haja alguma outra que seja importante e eu não tenha colocado, por favor me avise!
+* Não tive a oportunidade de testar as soluções Socrata e Junar como publicador, só como usuário.
 
 ### Socrata ###
 
 ![Socrata Home Page](https://photos-3.dropbox.com/t/0/AABQm3gFtyqC_n4b0ItX6PsjnJyMd4xvgjw5kUVaN_wFPQ/12/18364240/jpeg/32x32/3/_/1/2/Socrata.jpg/EzWsMsnxRmWMvrnTfhzXD2fGj-Xla1oQL9rpQ9-TbGs?size=1024x768)
 
 #### Principais características ####
-
+* [Sotware como serviço] (http://en.wikipedia.org/wiki/Software_as_a_service)
+* API para acesso automático
 
 #### Quem usa? ###
 * [Programa de Desenvolvimento das Nações Unidas](http://www.undp.org/content/undp/en/home.html) <https://data.undp.org/>
@@ -98,7 +103,8 @@ Soluções conhecidas:
 ![Junar Home Page](https://photos-4.dropbox.com/t/0/AAD48ncEMfORhlltWE0fqrBgQMbK54mev3gF30gXqihWxQ/12/18364240/jpeg/32x32/3/_/1/2/junar.jpg/--5i3Cu53p3w4OtSY-uFZhUP0dT--67C7GqiPDpQOr0?size=1024x768)
 
 #### Principais características ####
-*
+* Software como serviço
+* API para acesso automático
 
 #### Quem usa? ###
 
@@ -108,7 +114,8 @@ Soluções conhecidas:
 
 #### Principais características ####
 * Sotware Open Source
-*
+* Software como serviço
+* API para acesso automático
 
 #### Quem usa? ###
 
