@@ -1,14 +1,15 @@
 ﻿Introdução a ferramentas - desmistificando os dados abertos
 ===========================================================
 
+
 > "A simplicidade é o último grau de sofisticação."
 > Leonardo da Vinci
 
-   Antes de mergulhar nas ferramentas e metodologias mais aclamadas para a publicação de dados abertos, é importante voltarmos aos objetivos desse modelo de publicação: por que publicar dados abertos?
+Antes de mergulhar nas ferramentas e metodologias mais aclamadas para a publicação de dados abertos, é importante voltarmos aos objetivos desse modelo de publicação: por que publicar dados abertos?
   
-   Publicar dados abertos é, antes de tudo, um esforço para tornar os dados mais fáceis de se utilizar e cruzar possível por desenvolvedores. Nós não sabemos quem vai utilizar e com quais outros dados os nossos serão cruzados, isso exige que os tornemos simples e bem documentados.
+Publicar dados abertos é, antes de tudo, um esforço para tornar os dados mais fáceis de se utilizar e cruzar possível por desenvolvedores. Nós não sabemos quem vai utilizar e com quais outros dados os nossos serão cruzados, isso exige que os tornemos simples e bem documentados.
    
-   Nessa parte do curso o aluno será orientado a buscar a simplicidade para agilizar a publicação de dados e conhecer ferramentas que facilitam esse trabalho.
+Nessa parte do curso o aluno será orientado a buscar a simplicidade para agilizar a publicação de dados e conhecer ferramentas que facilitam esse trabalho.
 
 ## Das Planilhas locais para dados na web ##
 
@@ -54,24 +55,56 @@ Um grande exemplo de organização da informação nas URLs é o caso do governo
 
 Esse exemplo não demonstra a organização nas URLs de conjuntos de dados, mas mostra que nas páginas do governo britânico existe na nomenclatura das páginas de serviços, uma padronização. Ainda mostra, além dessa padronização, a tentativa de agregar significado às URLs, para que elas sejam intuitivas para quem for utilizar.
 
-## Catálogos de dados e o CKAN ##
+## Catálogos de dados abertos e o CKAN ##
 
+Para facilitar o processo de busca dos dados publicados em formatos abertos, utilizamos catálogos de dados abertos. 
+Considerano que não existe definição sobre o que é um catálogo de dados na "web mainstream" (ou que eu não encontrei nenhuma no google, duck duck go, yahoo, bing e wikipedia) vou inventar a minha:
 
+um catálogo de dados abertos é:
 
-Ideias de conteúdo para essa seção:
+Em poucas palavras - uma ferramenta que disponibiliza metadados relativos a dados abertos.
 
-Falar rapidamente sobre serviços e prestadores de serviços de dados abertos:
-* SOCRATA
-* JUNAR
-* CKAN
+Em muitas palavras - um mecanismo, ferramenta ou serviço que faz a gestão e publicação de metadados relativos a dados abertos na web.
+
+A funcionalidade básica de um catálogo de dados é então permitir: a busca, inclusão, alteração e exclusão desses metadados. 
+As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada vez mais funcionalidades:
+* integração com sistemas de gestão de conteúdo (CMS como wordpress, joomla, drupal, plone etc) ou seus próprios sistemas de gestão de conteúdo
+* possibilidade de visualização dos dados catalogados
+* Controle de acesso a partes dos conjuntos de dados disponibilizados (acesso)
+* Controle de acesso descentralizado para inclusão e edição de metadados, permitindo delegação por organizações e usuários
+* Hospedagem de arquivos
+* Transformação de arquivos
+* APIs de acesso automatizado
+
+Soluções conhecidas:
+
+* Socrata (Socrata)
+* Junar (Junar)
+* CKAN (OKFN)
+
+### Socrata ### 
+
+#### Principais características ####
+
+#### Quem usa? ###
+
+### Junar ### 
+
+#### Principais características ####
+
+#### Quem usa? ###
+
+### CKAN ### 
+
+#### Principais características ####
+
+#### Quem usa? ###
 
 On a tight budget ? go for open source software!
 
 
 
 ## APIs - por que e como? ##
-
-
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
 > Data Catalog Interoperability Protocol
