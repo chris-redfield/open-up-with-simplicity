@@ -22,10 +22,10 @@ Dentre as formas de se publicar dados abertos, a que consideramos mais simples �
 * .txt (com tsv ou csv dentro)
 * .ods
 * .xls
-* .xlsx -> isso é aberto mesmo ? aparentemente sim  @_@ -> [Standard ECMA-376 - Office Open XML File Formats](http://www.ecma-international.org/publications/standards/Ecma-376.htm)
+* .xlsx
 
 Como estamos falando de dados abertos, aconselhamos fortemente a publicação em formatos abertos (formatos que não impõe restrição tecnológica - [mais informações](http://opendefinition.org/)) :
-* todos com exceção do .xls !
+* todos com exceção do .xls e do .xlsx!
 
 Por fim, se queremos publicar dados em formatos simples e tamanhos pequenos, façamos como o <http://datos.gub.uy/> : csv compactado!
 
