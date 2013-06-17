@@ -84,19 +84,31 @@ Soluções conhecidas:
 
 ### Socrata ###
 
+![Socrata Home Page](https://photos-3.dropbox.com/t/0/AABQm3gFtyqC_n4b0ItX6PsjnJyMd4xvgjw5kUVaN_wFPQ/12/18364240/jpeg/32x32/3/_/1/2/Socrata.jpg/EzWsMsnxRmWMvrnTfhzXD2fGj-Xla1oQL9rpQ9-TbGs?size=1024x768)
+
 #### Principais características ####
 
+
 #### Quem usa? ###
+* [Programa de Desenvolvimento das Nações Unidas](http://www.undp.org/content/undp/en/home.html) <https://data.undp.org/>
+*
 
 ### Junar ###
 
+![Junar Home Page](https://photos-4.dropbox.com/t/0/AAD48ncEMfORhlltWE0fqrBgQMbK54mev3gF30gXqihWxQ/12/18364240/jpeg/32x32/3/_/1/2/junar.jpg/--5i3Cu53p3w4OtSY-uFZhUP0dT--67C7GqiPDpQOr0?size=1024x768)
+
 #### Principais características ####
+*
 
 #### Quem usa? ###
 
 ### CKAN ###
 
+![CKAN Home Page](https://photos-6.dropbox.com/t/0/AABEWPFfd_5ML1NYOCqQR0JroGtLRr5X5fztfRICwBq9wQ/12/18364240/jpeg/32x32/3/_/1/2/ckan.jpg/knz_ahNH1kXW0wU4EC2W267_aw_pczSlevS9wbwyOr0?size=1024x768)
+
 #### Principais características ####
+* Sotware Open Source
+*
 
 #### Quem usa? ###
 
