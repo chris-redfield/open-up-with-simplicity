@@ -65,7 +65,16 @@ Falar rapidamente sobre serviços e prestadores de serviços de dados abertos:
 
 On a tight budget ? go for open source software!
 
+
+
 ## APIs - por que e como? ##
+
+
+
+### Protocolo de interoperabilidade de catálogo de dados ###
+> Data Catalog Interoperability Protocol
+
+![OKFN's DCIP](Protocolo de interoperabilidade de catálogo de dados - Data Catalog Interoperability Protocol)
 
 ## Exercício práctico ##
 
