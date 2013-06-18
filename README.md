@@ -18,12 +18,12 @@ Nessa parte do curso o aluno será orientado a buscar a simplicidade para agiliz
 ![Brinquedo de formas de crianças](http://4.bp.blogspot.com/-QmNc--UT8NM/UJGHobnbzDI/AAAAAAAAAXY/6_lVMxtrx-c/s1600/wooden_toy_shape_sorter_block_box.jpg)
 
 Dentre as formas de se publicar dados abertos, a que consideramos mais simples é utilizar formatos de planilha:
-* .csv
-* .tsv
+* [.csv](http://en.wikipedia.org/wiki/Comma-separated_values)
+* [.tsv](http://en.wikipedia.org/wiki/Tab-separated_values)
 * .txt (com tsv ou csv dentro)
-* .ods
-* .xls
-* .xlsx
+* [.ods](http://en.wikipedia.org/wiki/OpenDocument)
+* [.xls](http://en.wikipedia.org/wiki/Microsoft_Excel#Binary)
+* [.xlsx](http://en.wikipedia.org/wiki/Office_Open_XML)
 
 Como estamos falando de dados abertos, aconselhamos fortemente a publicação em formatos abertos (formatos que não impõe restrição tecnológica - [mais informações](http://opendefinition.org/)) :
 * todos com exceção do .xls e do .xlsx!
