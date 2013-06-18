@@ -38,11 +38,11 @@ Como é de conhecimento de todos, o canal mais democrático e de maior permeabil
 &nbsp;
 ![WEB](http://www.pr-vantage.com/wp-content/uploads/2010/12/Web-Connection-300x232.jpg)
 
-Considerando que queremos facilitar o trabalho dos nossos consumidores e que para isso selecionamos a web, é fundamental seguir algumas considerações do seu criador ([Sir Tim Berners Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)) e de pesquisadores como [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding), que defendem sua utilização de forma simples e direta:
+Considerando que queremos facilitar o trabalho dos nossos consumidores e que para isso selecionamos a web, é fundamental seguir [a sua arquitetura](http://www.w3.org/TR/webarch/) e algumas considerações do seu criador ([Sir Tim Berners Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)) e de pesquisadores como [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding), que defendem sua utilização de forma simples e direta:
 * Disponibilizá-lo em uma URL fixa, para que qualquer pessoa possa encontrá-lo e compartilhá-lo com terceiros;
 * Não utilizar abstrações adicionais de outros protocolos, permitindo que qualquer aplicação possa chegar ao arquivo sem maiores complicações.
 
-Atualmente qualquer web service ou ferramenta pronta de catalogação permite que se compartilhe dados em URLs fixas, ou persistentes
+Atualmente qualquer web service que siga o [estilo arquitetural REST](https://en.wikipedia.org/wiki/Representational_State_Transfer) ou ferramenta pronta de catalogação permite que se compartilhe dados em URLs fixas, ou persistentes.
 
 Por último, pode ser vantajoso padronizar URLs de acesso aos arquivos de dados: essa abordagem facilita o trabalho de crawlers, desenvolvedores, de mecanismos de busca e de muitas outras pessoas quando procurando nossos dados.
 
