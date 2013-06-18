@@ -58,13 +58,15 @@ Esse exemplo não demonstra a organização nas URLs de conjuntos de dados, mas 
 ## Catálogos de dados abertos e o CKAN ##
 
 Para facilitar o processo de busca dos dados publicados em formatos abertos, utilizamos catálogos de dados abertos. 
-Considerano que não existe definição sobre o que é um catálogo de dados na "web mainstream" (ou que eu não encontrei nenhuma no google, duck duck go, yahoo, bing e wikipedia) vou inventar a minha:
 
-um catálogo de dados abertos é:
+A única descrição encontrada sobre o que é um catálogo de dados está aqui: <http://www.w3.org/TR/vocab-dcat/#class-catalog>
 
-Em poucas palavras - uma ferramenta que disponibiliza metadados relativos a dados abertos.
+> "A data catalog is a curated collection of metadata about datasets."
+> W3C
 
-Em muitas palavras - um mecanismo, ferramenta ou serviço que faz a gestão e publicação de metadados relativos a dados abertos na web.
+Considerando que essa foi a única definição encontrada, vou inventar a minha:
+
+Um catálogo de dados abertos é um mecanismo, ferramenta ou serviço que faz a gestão e publicação de metadados relativos a dados abertos na web.
 
 A funcionalidade básica de um catálogo de dados é então permitir: a busca, inclusão, alteração e exclusão desses metadados. 
 As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada vez mais funcionalidades:
@@ -142,6 +144,8 @@ __Observações:__
 
 
 ## APIs - por que e como? ##
+
+
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
 > Data Catalog Interoperability Protocol
