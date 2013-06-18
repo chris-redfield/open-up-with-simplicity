@@ -77,6 +77,7 @@ As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada ve
 * Hospedagem de arquivos
 * Transformação de arquivos
 * APIs de acesso automatizado
+* Harvesting de metadados e federação de catálogos
 
 ### Soluções conhecidas: ###
 
