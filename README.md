@@ -66,7 +66,7 @@ A única descrição encontrada sobre o que é um catálogo de dados está aqui:
 
 Considerando que essa foi a única definição encontrada, vou inventar a minha:
 
-Um catálogo de dados abertos é um mecanismo, ferramenta ou serviço que faz a gestão e publicação de metadados relativos a dados abertos na web.
+Um catálogo de dados abertos é um mecanismo, ferramenta ou serviço que faz a gestão e publicação na web de metadados relativos a dados abertos.
 
 A funcionalidade básica de um catálogo de dados é então permitir: a busca, inclusão, alteração e exclusão desses metadados. 
 As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada vez mais funcionalidades:
