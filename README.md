@@ -70,7 +70,7 @@ Um catálogo de dados abertos é um mecanismo, ferramenta ou serviço que faz a 
 
 A funcionalidade básica de um catálogo de dados é então permitir: a busca, inclusão, alteração e exclusão desses metadados. 
 As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada vez mais funcionalidades:
-* Integração com sistemas de gestão de conteúdo (CMS como wordpress, joomla, drupal, plone etc) ou seus próprios sistemas de gestão de conteúdo
+* Integração com [sistemas de gestão de conteúdo](http://en.wikipedia.org/wiki/Content_management_system) (CMS como [wordpress](http://en.wikipedia.org/wiki/WordPress), [joomla](http://en.wikipedia.org/wiki/Joomla), [drupal](http://en.wikipedia.org/wiki/Drupal), [plone](http://en.wikipedia.org/wiki/Plone_(software)), etc.) ou ter seus próprios sistemas de gestão de conteúdo
 * Possibilidade de visualização dos dados catalogados
 * Controle de acesso a partes dos conjuntos de dados disponibilizados (acesso)
 * Controle de acesso descentralizado para inclusão e edição de metadados, permitindo delegação por organizações e usuários
