@@ -145,11 +145,22 @@ __Observações:__
 
 ## APIs - por que e como? ##
 
+O que é uma API ?
+
+API quer dizer Application Programming Interface (Interface de Programação de Aplicação).
+> "Generally speaking, an application programming interface specifies how some software components should interact with each other."
+> [Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
+
+Ou seja, é um componente de interoperabilidade. Na prática uma API é uma biblioteca, em alguma linguagem de programação, que encapsula ou abstrai a uma rotina que pode ou não ser de comunicação com outros componentes.
+
+O que chamamos de APIs quando falamos de dados abertos, na verdade, são Web APIs.
+
 
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
-> Data Catalog Interoperability Protocol
 
+
+Data Catalog Interoperability Protocol
 ![OKFN's DCIP](https://photos-4.dropbox.com/t/0/AAANtsg7lmKJfZtd5Y0Z0JiR07oQVJ4huCRxrqvLivNS2Q/12/18364240/jpeg/32x32/3/_/1/2/DCIP.jpg/6XHdLEkNdUi5KZ0-07i5v4l7dlMQXx6J1CEWK8qbVTI?size=1024x768)
 
 ## Exercício práctico ##
