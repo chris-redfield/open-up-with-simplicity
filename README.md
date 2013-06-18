@@ -93,10 +93,16 @@ __Observações:__
 #### Principais características ####
 * [Sotware como serviço] (http://en.wikipedia.org/wiki/Software_as_a_service)
 * API para acesso automático
+* Pré visualização tabular
+* Construção de visualizações mais elaboradas (formatação condicional, gráficos e mapas)
+
 
 #### Quem usa? ###
+* [Kenya](https://opendata.go.ke/)
 * [Programa de Desenvolvimento das Nações Unidas](http://www.undp.org/content/undp/en/home.html) <https://data.undp.org/>
-*
+* [Banco Mundial](https://finances.worldbank.org/)
+* [Data gov (até 2013)](http://www.data.gov/)
+* [Dezenas de outros clientes nos Estados Unidos e no Mundo](http://www.socrata.com/customer-spotlight/)
 
 ### Junar ###
 
@@ -105,8 +111,11 @@ __Observações:__
 #### Principais características ####
 * Software como serviço
 * API para acesso automático
+*
 
 #### Quem usa? ###
+* []()
+* []()
 
 ### CKAN ###
 
@@ -116,8 +125,12 @@ __Observações:__
 * Sotware Open Source
 * Software como serviço
 * API para acesso automático
+* Pré visualização tabular
+* Construção de visualizações (gráficos e mapas)
 
 #### Quem usa? ###
+* []()
+* []()
 
 On a tight budget ? go for open source software!
 
