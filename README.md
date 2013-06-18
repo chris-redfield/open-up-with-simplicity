@@ -151,10 +151,12 @@ API quer dizer Application Programming Interface (Interface de Programação de 
 > "Generally speaking, an application programming interface specifies how some software components should interact with each other."
 > [Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
 
-Ou seja, é um componente de interoperabilidade. Na prática uma API é uma biblioteca, em alguma linguagem de programação, que encapsula ou abstrai a uma rotina que pode ou não ser de comunicação com outros componentes.
+Ou seja, é um componente de interoperabilidade. Na prática uma API é uma biblioteca, em alguma linguagem de programação, que encapsula ou abstrai a uma rotina, interagimos com a API enviando a ela a operação que queremos fazer.
 
-O que chamamos de APIs quando falamos de dados abertos, na verdade, são Web APIs.
+O que chamamos de APIs quando falamos de dados abertos, na verdade, são Web APIs. As web APIs funcionam sobre a mesma filosofia: é declarado um conjunto de operações que a API realiza e o desenvolvedor a chama utilizando HTTP, ou SOAP, mas recomendamos nos ater ao HTTP pela simplicidade que isso traz aos desenvolvedores.
 
+Embora uma API seja uma maneira mais rica de publicar dados, recomendamos também considerar algumas questões antes de entrar de cabeça nessa moda.
+> Fonte: (Publishing Open Data – Do you really need an API?)[http://www.peterkrantz.com/2012/publishing-open-data-api-design/]
 
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
@@ -164,5 +166,3 @@ Data Catalog Interoperability Protocol
 ![OKFN's DCIP](https://photos-4.dropbox.com/t/0/AAANtsg7lmKJfZtd5Y0Z0JiR07oQVJ4huCRxrqvLivNS2Q/12/18364240/jpeg/32x32/3/_/1/2/DCIP.jpg/6XHdLEkNdUi5KZ0-07i5v4l7dlMQXx6J1CEWK8qbVTI?size=1024x768)
 
 ## Exercício práctico ##
-
-## Referências ##
