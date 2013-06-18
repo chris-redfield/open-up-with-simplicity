@@ -156,9 +156,20 @@ Ou seja, é um componente de interoperabilidade. Na prática uma API é uma bibl
 
 O que chamamos de APIs quando falamos de dados abertos, na verdade, são Web APIs. As web APIs funcionam sobre a mesma filosofia: é declarado um conjunto de operações que a API realiza e o desenvolvedor a chama utilizando HTTP, ou SOAP, mas recomendamos nos ater ao HTTP pela simplicidade que isso traz aos desenvolvedores.
 
-Embora uma API seja uma maneira mais rica de publicar dados, recomendamos também considerar algumas questões antes de entrar de cabeça nessa moda.
-> Fonte: (Publishing Open Data – Do you really need an API?)[http://www.peterkrantz.com/2012/publishing-open-data-api-design/]
+Embora uma API seja uma maneira mais rica de publicar dados, recomendamos também considerar algumas questões antes de entrar de cabeça nessa moda ou durante seu processo de adoção.
+> Fonte: [Publishing Open Data – Do you really need an API?](http://www.peterkrantz.com/2012/publishing-open-data-api-design/)
 
+__Você realmente precisa de uma API ?__
+* Você quer disponibilizar uma planilha ou uma base inteira ?
+* Qual o tamanho da base ? Não seria mais fácil convertê-la para um grande arquivo ?
+* Você pode arcar com os custos de manutenção de uma API?
+* Sua infraestrutura aguentaria um grande aumento de carga ?
+
+__Isole a base de produção da base aberta__
+Essa afirmação pode parecer óbvia, mas nunca é demais lembrar coisas importantes. A parte de segurança não é tão arriscada, o principal problema é a concorrência das buscas com as atividades normais do sistema que está em produção.
+
+__Lembre-se das URLs__
+API boa é RESTful, é API padronizada, criar uma API que não siga as melhores práticas na web pode ser uma dor de cabeça para você e não atender as necessidades dos desenvolvedores.
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
 
