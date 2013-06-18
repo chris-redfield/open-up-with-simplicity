@@ -79,7 +79,7 @@ As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada ve
 ### Soluções conhecidas: ###
 
 * Socrata (Socrata)
-* Junar (Junar)
+* Junar Open Data Platform (Junar)
 * CKAN (OKFN)
 
 __Observações:__ 
@@ -91,9 +91,9 @@ __Observações:__
 ![Socrata Home Page](https://photos-3.dropbox.com/t/0/AABQm3gFtyqC_n4b0ItX6PsjnJyMd4xvgjw5kUVaN_wFPQ/12/18364240/jpeg/32x32/3/_/1/2/Socrata.jpg/EzWsMsnxRmWMvrnTfhzXD2fGj-Xla1oQL9rpQ9-TbGs?size=1024x768)
 
 #### Principais características ####
-* [Sotware como serviço] (http://en.wikipedia.org/wiki/Software_as_a_service)
+* Sotware como serviço
 * API para acesso automático
-* Pré visualização tabular
+* Pré visualização de dados tabulares
 * Construção de visualizações mais elaboradas (formatação condicional, gráficos e mapas)
 
 
@@ -101,39 +101,44 @@ __Observações:__
 * [Kenya](https://opendata.go.ke/)
 * [Programa de Desenvolvimento das Nações Unidas](http://www.undp.org/content/undp/en/home.html) <https://data.undp.org/>
 * [Banco Mundial](https://finances.worldbank.org/)
-* [Data gov (até 2013)](http://www.data.gov/)
-* [Dezenas de outros clientes nos Estados Unidos e no Mundo](http://www.socrata.com/customer-spotlight/)
+* [Estados Unidos (até 2013)](http://www.data.gov/)
+* [Dezenas de cidades e estados nos Estados Unidos e no Mundo](http://www.socrata.com/customer-spotlight/)
 
-### Junar ###
+### Junar Open Data Platform ###
 
 ![Junar Home Page](https://photos-4.dropbox.com/t/0/AAD48ncEMfORhlltWE0fqrBgQMbK54mev3gF30gXqihWxQ/12/18364240/jpeg/32x32/3/_/1/2/junar.jpg/--5i3Cu53p3w4OtSY-uFZhUP0dT--67C7GqiPDpQOr0?size=1024x768)
 
 #### Principais características ####
 * Software como serviço
 * API para acesso automático
-*
+* Pré visualização de dados tabulares
+* Visualização de dashboards pré elaborados
 
 #### Quem usa? ###
-* []()
-* []()
+* [Chile](http://datos.gob.cl/)
+* [Costa Rica](http://datosabiertos.gob.go.cr/)
+* [6 municípios nos Estados Unidos e no Mundo](http://www.junar.com/plans)
+* [La nación (Jornal da Argentina)](http://data.lanacion.com.ar/)
 
 ### CKAN ###
 
 ![CKAN Home Page](https://photos-6.dropbox.com/t/0/AABEWPFfd_5ML1NYOCqQR0JroGtLRr5X5fztfRICwBq9wQ/12/18364240/jpeg/32x32/3/_/1/2/ckan.jpg/knz_ahNH1kXW0wU4EC2W267_aw_pczSlevS9wbwyOr0?size=1024x768)
 
 #### Principais características ####
-* Sotware Open Source
+* Sotware Open Source - <https://github.com/okfn/ckan>
 * Software como serviço
 * API para acesso automático
-* Pré visualização tabular
+* Pré visualização de dados tabulares
 * Construção de visualizações (gráficos e mapas)
+* Busca de datasets geolocalizada
 
 #### Quem usa? ###
-* []()
-* []()
-
-On a tight budget ? go for open source software!
-
+* [Reino Unido](http://data.gov.uk/)
+* [Estados Unidos](http://www.data.gov/)
+* [Alemanha](https://www.govdata.de/)
+* [public.data.eu](http://publicdata.eu/)
+* [Brasil](http://dados.gov.br/)
+* [Dezenas de países, estados e cidades no mundo](http://ckan.org/instances/)
 
 
 ## APIs - por que e como? ##
