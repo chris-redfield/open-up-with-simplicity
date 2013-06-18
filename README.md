@@ -81,9 +81,9 @@ As soluções de catálogo mais conhecidas, no entanto, têm incorporado cada ve
 
 ### Soluções conhecidas: ###
 
-* Socrata (Socrata)
-* Junar Open Data Platform (Junar)
-* CKAN (OKFN)
+* Socrata ([Socrata](http://en.wikipedia.org/wiki/Socrata))
+* Junar Open Data Platform ([Junar](http://www.junar.com/))
+* [CKAN](http://ckan.org) ([Open Knowledge Foundation](http://okfn.org))
 
 __Observações:__ 
 * Essas são as soluções de mercado de maior destaque atualmente. Na verdade, devo esclarecer que são as únicas que conheço. Caso haja alguma outra que seja importante e eu não tenha colocado, por favor me avise!
