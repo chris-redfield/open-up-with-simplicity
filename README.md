@@ -171,6 +171,13 @@ Essa afirmação pode parecer óbvia, mas nunca é demais lembrar coisas importa
 __Lembre-se das URLs__
 API boa é RESTful, é API padronizada, criar uma API que não siga as melhores práticas na web pode ser uma dor de cabeça para você e não atender as necessidades dos desenvolvedores.
 
+### Como Fazer uma API ###
+
+Infelizmente não existem maneiras fáceis e nem tempo hábil para colocar isso dentro de uma postagem.
+O que pode e vai fazer muito mais diferença é incluir aqui agumas coisas que devem ser levadas em consideração ao se desenvolver (ou terceirzar o desenvolvimento de) uma API:
+* 
+*
+
 ### Protocolo de interoperabilidade de catálogo de dados ###
 
 
