@@ -193,3 +193,5 @@ O protocolo propõe:
 * Um protocolo somente de leitura para realizar a interoperabilidade básica entre catálogos;
 
 Dessa forma, um catálogo central mundial poderia reunir todos datasets dos catálogos que seguissem esses padrões !
+
+Por último, aos mais ousados, proponho a utilização do sistema de perguntas e respostas da "Escola de Dados" ou "[School of Data](http://schoolofdata.org/)" da Open Knowledge Foundation: <http://ask.schoolofdata.org/>, uma iniciativa nova onde já podem ser encontradas muitas perguntas relevantes sobre dados abertos, dados e assuntos correlatos.
