@@ -25,7 +25,7 @@ Dentre as formas de se publicar dados abertos, a que consideramos mais simples �
 * [.xls](http://en.wikipedia.org/wiki/Microsoft_Excel#Binary)
 * [.xlsx](http://en.wikipedia.org/wiki/Office_Open_XML)
 
-Como estamos falando de dados abertos, aconselhamos fortemente a publicação em formatos abertos (formatos que não impõe restrição tecnológica - [mais informações](http://opendefinition.org/)) :
+Como estamos falando de dados abertos, aconselhamos fortemente a publicação em formatos abertos (formatos que não impõem restrição tecnológica - [mais informações](http://opendefinition.org/)) :
 * todos com exceção do .xls e do .xlsx!
 
 Por fim, se queremos publicar dados em formatos simples e tamanhos pequenos, façamos como o <http://datos.gub.uy/> : csv compactado!
@@ -175,13 +175,21 @@ API boa é RESTful, é API padronizada, criar uma API que não siga as melhores 
 
 Infelizmente não existem maneiras fáceis e nem tempo hábil para colocar isso dentro de uma postagem.
 O que pode e vai fazer muito mais diferença é incluir aqui agumas coisas que devem ser levadas em consideração ao se desenvolver (ou terceirzar o desenvolvimento de) uma API:
-* 
-*
+* [Arquitetura da Web](http://www.w3.org/TR/webarch/)
+* [Estilo de arquitetura REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+Além disso, estamos pesquisando no Brasil, soluções de software livre que transformem bases em APIs com um conjunto de definições, já encontramos (e desenvolvemos) algumas, mas ainda não encontramos nenhuma com interface gráfica e de fácil configuração.
+
 
 ### Protocolo de interoperabilidade de catálogo de dados ###
 
+Como já falamos de catálogos de dados e de APIs, trazemos essa novidade interessante: a Open Knowledge Foundation iniciou o desenvolvimento de um "Protocolo de Interoperabilidade para catálogo de dados":
 
-Data Catalog Interoperability Protocol
+[Data Catalog Interoperability Protocol](http://spec.datacatalogs.org/)
 ![OKFN's DCIP](https://photos-4.dropbox.com/t/0/AAANtsg7lmKJfZtd5Y0Z0JiR07oQVJ4huCRxrqvLivNS2Q/12/18364240/jpeg/32x32/3/_/1/2/DCIP.jpg/6XHdLEkNdUi5KZ0-07i5v4l7dlMQXx6J1CEWK8qbVTI?size=1024x768)
 
-## Exercício práctico ##
+O protocolo propõe:
+* A definição de representações comuns em JSON e RDF para entidades centrais de catálogos de dados; e
+* Um protocolo somente de leitura para realizar a interoperabilidade básica entre catálogos;
+
+Dessa forma, um catálogo central mundial poderia reunir todos datasets dos catálogos que seguissem esses padrões !
