@@ -3,8 +3,18 @@
 
 ## Apresentação ##
 
-Este exemplo tem o objetivo de demonstrar como pode ser fácil criar visualizações úteis à partir da utilização de dados bem formatados e 
+Este exemplo tem o objetivo de demonstrar como pode ser fácil criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
 
+## Pré requisitos ###
+
+Para essa atividade vamos precisar de:
+
+1. Esses dados: <https://catalogodatos.gub.uy/dataset/transporte-colectivo-paradas-lineas-puntos-de-control>
+2. Qgis: <http://hub.qgis.org/projects/quantum-gis/wiki/Download>
+3. Esse html, pré criado pelos professores: <https://github.com/chris-redfield/open-up-with-simplicity/blob/master/ejemplos/paradas-montevideo.html>
+4. Libre Office 4: <http://www.libreoffice.org/download>
+5. Navegador Firefox: <http://www.mozilla.org/en-US/products/download.html?product=firefox-21.0&os=win&lang=en-US>
+6. Paciência e motivação =)
 
 
 
