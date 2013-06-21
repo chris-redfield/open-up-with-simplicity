@@ -9,8 +9,8 @@ Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transpo
 
 Esse exemplo foi inspirado por esses trabalhos:
 
-1. [Utilizando SQL para pequenas análises de dados](http://br.okfn.org/2013/04/09/utilizando-sql-para-pequenas-analises-de-dados/) - [Rufus Pollock](http://en.wikipedia.org/wiki/Rufus_Pollock)
-2. [Using SQL for lightweight data analysis](http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/) - [João Batista Neto](https://www.facebook.com/neto.joaobatista)
+1. [Utilizando SQL para pequenas análises de dados](http://br.okfn.org/2013/04/09/utilizando-sql-para-pequenas-analises-de-dados/) - [João Batista Neto](https://www.facebook.com/neto.joaobatista)
+2. [Using SQL for lightweight data analysis](http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/) - [Rufus Pollock](http://en.wikipedia.org/wiki/Rufus_Pollock)
 
 As postagens acima tiveram fins didáticos e ofertaram conclusões relevantes à partir da análise sobre os dados. Este exemplo foi desenvolvido para um breve curso e segue uma linha parecida, mas seu objetivo principal é diferente (está abaixo). Portanto não temos a pretensão de compará-lo com os demais.
 
