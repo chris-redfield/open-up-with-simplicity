@@ -32,7 +32,7 @@ da cidade. Queremos provar, com isso, que seria fácil criar, por exemplo, um
 aplicativo que localiza a parada de ônibus mais próxima onde passa a linha
 desejada, ou que realize um planejamento de rotas entre dois pontos indicando
 as paradas e linhas que o cidadão precisa utilizar.
-*OBSERVAÇÃO IMPORTANTE:* Esse exemplo não fará isso!!! Nosso objetivo é mostrar
+**OBSERVAÇÃO IMPORTANTE:** Esse exemplo não fará isso!!! Nosso objetivo é mostrar
 que isso é facilmente factível em menos de uma hora. Não pesquisamos se já
 existem aplicativos que fazem isso na cidade, mas lembramos novamente que o
 objetivo do exemplo não é criar um aplicativo que faça isso, e sim demonstrar
