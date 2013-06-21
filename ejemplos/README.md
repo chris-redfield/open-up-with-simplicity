@@ -8,6 +8,7 @@ Esse experimento é fruto do [Curso sobre datos abiertos para entidades pública
 Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transporte público da cidade de Montevidéu, disponíveis no [datos.gub.uy](http://datos.gub.uy/). 
 
 Esse exemplo foi inspirado por esses trabalhos:
+
 1. [Utilizando SQL para pequenas análises de dados](http://br.okfn.org/2013/04/09/utilizando-sql-para-pequenas-analises-de-dados/) - [Rufus Pollock](http://en.wikipedia.org/wiki/Rufus_Pollock)
 2. [Using SQL for lightweight data analysis](http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/) - [Joao Batista Neto](https://www.facebook.com/neto.joaobatista)
 
