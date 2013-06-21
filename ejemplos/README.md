@@ -103,6 +103,8 @@ Para visualizar as paradas de ônibus, selecionamos:
 
 ![Leaflet](http://leafletjs.com/docs/images/logo.png)
 
+Para os mais vorazes, que gostam de olhar por baixo do capô, mostramos o código do HTML com algumas considerações:
+
 	<!DOCTYPE html>
 	<html>
 	<head>
@@ -140,6 +142,18 @@ Para visualizar as paradas de ônibus, selecionamos:
 	</body>
 	</html>
 
+1. Na linha 13 definimos a área onde o mapa será pintado e seu tamanho
+2. Na linha 15 definimos as coordenadas onde o mapa será aberto e o zoom inicial
+3. Na linha 16 definimos o serviço do qual retiramos as "telhas" (imagens do mapa) e a devida atribuição a essas fontes (o seriviço utilizado para pegar as telhas do Open Street Map foi o [CLoudMade](http://cloudmade.com/)
+4. Na linha 20 carregamos o arquivo GeoJSON e definimos as características do ponto (cor, tamanho etc)
+
+Por fim resta abrir o HTML com o FireFox (o Google Chrome não permite a abertura de arquivos json localmente, não testamos outros navegadores) e visualizar o resultado!
+
+![Mapa final 1](https://dl.dropboxusercontent.com/u/18364240/mapa1.png)
 
 
+![Mapa final 2](https://dl.dropboxusercontent.com/u/18364240/mapa2.png)
+
+Sim, vai ficar bem pesado, pois são 40 mil paradas de ônibus desenhadas em um mapa.
+No mesmo local onde está o html (<https://github.com/chris-redfield/open-up-with-simplicity>), há um arquivo chamado "metade-paradas-montevideo.zip" dentro da pasta ejemplos. Retiramos algumas paradas para gerar uma visualização mais leve.
 
