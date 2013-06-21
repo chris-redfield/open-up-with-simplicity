@@ -7,10 +7,16 @@ Esse experimento é fruto do [Curso sobre datos abiertos para entidades pública
 
 Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transporte público da cidade de Montevidéu, disponíveis no [datos.gub.uy](http://datos.gub.uy/). 
 
+Esse exemplo foi inspirado por esses trabalhos:
+1. [Utilizando SQL para pequenas análises de dados](http://br.okfn.org/2013/04/09/utilizando-sql-para-pequenas-analises-de-dados/) - [Rufus Pollock](http://en.wikipedia.org/wiki/Rufus_Pollock)
+2. [Using SQL for lightweight data analysis](http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/) - [Joao Batista Neto](https://www.facebook.com/neto.joaobatista)
+
+As postagens acima tiveram fins didáticos e ofertaram conclusões relevantes à partir da análise sobre os dados. Este exemplo foi desenvolvido para um breve curso e segue uma linha parecida, mas seu objetivo principal é diferente (está abaixo). Portanto não temos a pretensão de compará-lo com os demais.
+
 ### Sobre a apresentação ###
 
 A visualização será muito simples, vamos pintar em um mapa as paradas de ônibus da cidade, provando que seria fácil criar, por exemplo, um aplicativo que localiza a parada de ônibus mais próxima onde passa a linha desejada. 
-OBSERVAÇÃO IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é altamente factível em menos de uma hora. Não pesquisamos se já existem aplicativos que fazem isso na cidade, mas lembramos novamente que o objetivo do exemplo não é criar um aplicativo que faça isso, e sim demonstrar a facilidade para tal.
+OBSERVAÇÃO IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é facilmente factível em menos de uma hora. Não pesquisamos se já existem aplicativos que fazem isso na cidade, mas lembramos novamente que o objetivo do exemplo não é criar um aplicativo que faça isso, e sim demonstrar que há facilidade para tal.
 
 ## Pré requisitos ###
 
