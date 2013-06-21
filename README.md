@@ -201,7 +201,7 @@ assunto.
 
 Para os que dominam o idioma inglês, sugerimos a utilizar o sistema
 de perguntas e respostas da "Escola de Dados" ou
-"_[School of Data](http://schoolofdata.org/)_" da _Open Knowledge Foundation_:
+"[_School of Data_](http://schoolofdata.org/)" da _Open Knowledge Foundation_:
 <http://ask.schoolofdata.org/>, uma iniciativa nova onde já podem ser
 encontradas muitas perguntas relevantes sobre dados abertos, dados e assuntos
 correlatos. A Fundação também possui listas de discussão relacionadas à
