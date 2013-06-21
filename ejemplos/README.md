@@ -3,7 +3,7 @@
 
 ## Apresentação ##
 
-Esse experimento é fruto do [Curso sobre datos abiertos para entidades públicas de América Latina y el Caribe](http://www.od4d.org/2013/05/28/curso-sobre-datos-abiertos-para-entidades-publicas-de-america-latina-y-el-caribe/). O exemplo tem o objetivo de demonstrar como pode ser fácil criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
+Esse experimento é fruto do [Curso sobre datos abiertos para entidades públicas de América Latina y el Caribe](http://www.od4d.org/2013/05/28/curso-sobre-datos-abiertos-para-entidades-publicas-de-america-latina-y-el-caribe/). O exemplo tem o objetivo de demonstrar como pode ser fácil(ou difícil) criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
 
 Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transporte público da cidade de Montevidéu, disponíveis no [datos.gub.uy](http://datos.gub.uy/). 
 
@@ -73,7 +73,7 @@ OBSERVAÇÃO IMPORTANTE: lembramos que esses atributos são muito importantes pa
 
 Clique no botão circulado em vermelho na imagem acima, para excluir os campos. 
 
-Selecione cada uma das colunas e clique no botão excluir
+Selecione cada uma das colunas e clique no botão ok.
 
 ![columns-for-deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
 
