@@ -77,7 +77,15 @@ Selecione cada uma das colunas e clique no botão ok.
 
 ![columns-for-deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
 
+Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar como...". Daqui há várias coisas que precisam ser feitas:
 
+1. Selecione o formato GeoJSON
+2. Selecione a mesma pasta onde você baixou o HTML do curso 
+3. Dê esse nome ao arquivo paradas-montevideo.geojson
+3. Selecione o formato WGS84 (o que está escrito somente WGS84, não é o WGS84 / UTM zone 21S)
+4. Pressione "ok" para salvar!
+
+![save layer as](https://dl.dropboxusercontent.com/u/18364240/save-layer-as.jpg)
 
 
 
