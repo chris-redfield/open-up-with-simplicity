@@ -95,14 +95,50 @@ Portanto, criamos um arquivo HTML simples, baseado em diversos exemplos na web, 
 
 Para visualizar as paradas de ônibus, selecionamos:
 
-1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas livre, e não proprietária
+1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas livre, e não proprietária.
 
 ![Open Street Map](http://www.openstreetmap.org/assets/osm_logo-0c85efbce2a8dac886d90b6b3609c55d.png)
 
-2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no mapa
+2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no mapa.
 
 ![Leaflet](http://leafletjs.com/docs/images/logo.png)
 
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Ejemplo de utilizacción de datos abiertos geograficos</title>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.css" />
+	 <!--[if lte IE 8]>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.ie.css" />
+	 <![endif]-->
+		<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
+		<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+	</head>
+	<body>
+		<div id="map" style="width:800px; height:480px;"></div>
+		<script type="text/javascript">
+			var map = L.map('map').setView([-34.906417,-56.199238], 14);
+			L.tileLayer('http://{s}.tile.cloudmade.com/91e81d26d1c949c7aeb49b86f8381ad3/997/256/{z}/{x}/{y}.png', {
+				attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+				maxZoom: 18
+			}).addTo(map);
+			$.getJSON("paradas-montevideo.geojson").done(function(pontos){
+				L.geoJson(pontos, {
+					pointToLayer: function (feature, latlng) {
+						return L.circleMarker(latlng, {
+								radius: 2,
+								fillColor: "#ff7800",
+								color: "#000",
+								weight: 1,
+								opacity: 1,
+								fillOpacity: 0.8
+							   });
+					}
+				}).addTo(map);
+			});
+		</script>
+	</body>
+	</html>
 
 
 
