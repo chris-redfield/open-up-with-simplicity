@@ -3,7 +3,13 @@
 
 ## Apresentação ##
 
-Este exemplo tem o objetivo de demonstrar como pode ser fácil criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
+Esse experimento é fruto do [Curso sobre datos abiertos para entidades públicas de América Latina y el Caribe](http://www.od4d.org/2013/05/28/curso-sobre-datos-abiertos-para-entidades-publicas-de-america-latina-y-el-caribe/). O exemplo tem o objetivo de demonstrar como pode ser fácil criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
+
+Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transporte público da cidade de Montevidéu, disponíveis no [datos.gub.uy](http://datos.gub.uy/). 
+
+### Sobre a apresentação ###
+
+A visualização será muito simples, vamos pintar em um mapa as paradas de ônibus da cidade, provando que seria fácil criar, por exemplo, um aplicativo que localiza a parada de ônibus mais próxima onde passa a linha desejada. IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é altamente factível em menos de uma hora.
 
 ## Pré requisitos ###
 
