@@ -13,7 +13,7 @@ Esse exemplo foi inspirado por esses trabalhos:
 
 As postagens acima tiveram fins didáticos e ofertaram conclusões relevantes à partir da análise sobre os dados. Este exemplo foi desenvolvido para um breve curso e segue uma linha parecida, mas seu objetivo principal é diferente (está abaixo). Portanto não temos a pretensão de compará-lo com os demais.
 
-### Sobre a apresentação ###
+### Sobre este exemplo ###
 
 A visualização será muito simples, vamos pintar em um mapa as paradas de ônibus da cidade, provando que seria fácil criar, por exemplo, um aplicativo que localiza a parada de ônibus mais próxima onde passa a linha desejada. 
 OBSERVAÇÃO IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é facilmente factível em menos de uma hora. Não pesquisamos se já existem aplicativos que fazem isso na cidade, mas lembramos novamente que o objetivo do exemplo não é criar um aplicativo que faça isso, e sim demonstrar que há facilidade para tal.
