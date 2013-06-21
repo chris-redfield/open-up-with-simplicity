@@ -42,6 +42,12 @@ Descompacte o zip em uma pasta de sua escolha, você obterá esses arquivos:
 
 Esses arquivos fazem parte de um ShapeFile, que é um arquivo de especificação aberta para dados geoespaciais. Mais informações sobre shapefiles [aqui](https://en.wikipedia.org/wiki/Shapefile).
 
+Agora, poderíamos buscar uma solução simples, converter o ShapeFile para CSV e visualizar no [Google Maps Engine](https://mapsengine.google.com), mas temos duas questões:
+1. Seria fácil demais, somos guerreiros e vamos tomar o caminho mais difícil buscando o aprendizado!
+2. Na verdade o google maps engine só aceita 100 pontos por arvquivo csv, e nós queremos volume! O arquivo possui 40 mil paradas de ônibus e queremos visualizar todas.
+
+Sabemos que existem outras soluções que permitiriam fazer coisas como essa, mas as que conhecemos são proprietárias, então vamos propor utilizar soluções livres e gratuitas, ao alcance de todos!
+
 ### Preparando os arquivos para utilização ###
 
 Abra o QuantumGis(QGis), arraste e solte o v_uptu_paradas.shp para o meio do programa.
@@ -52,13 +58,15 @@ Você obterá um resultado como esse:
 
 ![Paradas no QGis](https://dl.dropboxusercontent.com/u/18364240/bus-stops-QGis.jpg)
 
+Ahá!!! já dá pra ter noção do resultado final, agora só precisamos de um mapinha onde pintar os pontos.
+
 Clique com o Botão direito na única camada disponível: v_uptu_paradas, e selecione a opção Abrir tabela de atributos conforme abaixo.
 
 ![Abrir tabela de atributos](https://dl.dropboxusercontent.com/u/18364240/open-atribute-table.png)
 
+Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos pontos, informações como código da localidade, nome da rua, código da rua etc.
 
-
-
+![atributes-table](https://dl.dropboxusercontent.com/u/18364240/tabela-de-atributos.jpg)
 
 
 
