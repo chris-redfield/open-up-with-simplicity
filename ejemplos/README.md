@@ -3,16 +3,27 @@
 
 ## Apresentação ##
 
-Esse experimento é fruto do [Curso sobre datos abiertos para entidades públicas de América Latina y el Caribe](http://www.od4d.org/2013/05/28/curso-sobre-datos-abiertos-para-entidades-publicas-de-america-latina-y-el-caribe/). O exemplo tem o objetivo de demonstrar como pode ser fácil(ou difícil) criar visualizações úteis à partir da utilização de dados bem formatados e com as ferramentas certas.
+Este experimento é fruto do [Curso sobre datos abiertos para entidades públicas
+de América Latina y el
+Caribe](http://www.od4d.org/2013/05/28/curso-sobre-datos-abiertos-para-entidades-publicas-de-america-latina-y-el-caribe/).
+O exemplo tem o objetivo de demonstrar como pode ser fácil (ou difícil) criar
+visualizações úteis a partir da utilização de dados bem formatados e com as
+ferramentas certas.
 
-Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transporte público da cidade de Montevidéu, disponíveis no [datos.gub.uy](http://datos.gub.uy/). 
+Em homenagem ao país anfitrião do curso, optamos por utilizar dados de
+transporte público da cidade de Montevidéu, disponíveis no
+[datos.gub.uy](http://datos.gub.uy/). 
 
-Esse exemplo foi inspirado por esses trabalhos:
+Este exemplo foi inspirado pelos seguintes trabalhos:
 
 1. [Utilizando SQL para pequenas análises de dados](http://br.okfn.org/2013/04/09/utilizando-sql-para-pequenas-analises-de-dados/) - [João Batista Neto](https://www.facebook.com/neto.joaobatista)
 2. [Using SQL for lightweight data analysis](http://schoolofdata.org/2013/03/26/using-sql-for-lightweight-data-analysis/) - [Rufus Pollock](http://en.wikipedia.org/wiki/Rufus_Pollock)
 
-As postagens acima tiveram fins didáticos e ofertaram conclusões relevantes à partir da análise sobre os dados. Este exemplo foi desenvolvido para um breve curso e segue uma linha parecida, mas seu objetivo principal é diferente (está abaixo). Portanto não temos a pretensão de compará-lo com os demais.
+As postagens acima tiveram fins didáticos e ofertaram conclusões relevantes a
+partir da análise sobre os dados. Este exemplo foi desenvolvido para um breve
+curso e segue uma linha parecida, mas seu objetivo principal é diferente
+(definido a seguir). Portanto não temos a pretensão de compará-lo com os
+demais.
 
 ### Sobre este exemplo ###
 
