@@ -162,4 +162,8 @@ Essa visualização foi desenvolvida em três horas por dois desenvolvedores, co
 Esses benefícios só puderam ser alcançados graças ao formato de padrão abeto disponibilizado pelo governo do Uruguay, uma sugestão que deixaríamos seria a disponibilização também em formato CSV, com as coordenadas das paradas e seus atributos em um só arquivo.
 
 
+## Licença ##
 
+Todo o conteúdo deste repositório e deste curso está disponível sobre licença [Creative Commons Atribuição (by)](http://creativecommons.org/licenses/by/3.0/br/)
+
+![CC-BY](http://creativecommons.org.br/wp-content/uploads/2012/08/by.large_.png)
