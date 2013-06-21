@@ -48,7 +48,9 @@ Abra o QuantumGis(QGis), arraste e solte o v_uptu_paradas.shp para o meio do pro
 
 ![QGis](https://dl.dropboxusercontent.com/u/18364240/drag-and-drop.png)
 
+Você obterá um resultado como esse:
 
+![Paradas no QGis](https://dl.dropboxusercontent.com/u/18364240/bus-stops-QGis.jpg)
 
 
 
