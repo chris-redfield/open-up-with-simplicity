@@ -24,9 +24,13 @@ Para essa atividade vamos precisar de:
 6. Paciência e motivação!
 
 
+## Baixando os dados ##
 
+Na página do dataset no datos.gub.uy, vamos fazer o download das localidades das paradas de ônibus. Escolha o dataset apontado na foto, clique no botao azul e selecione a opção de descarregar.
 
+https://dl.dropboxusercontent.com/u/18364240/datos.gub.uy.png
 
+Embora não tenhamos encontrado informações sobre a licença "Uruguay Open Data Licence", acreditamos que a licença autorize a utilização dos dados para esse curso.
 
 
 
