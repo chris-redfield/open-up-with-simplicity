@@ -194,3 +194,11 @@ O protocolo propõe:
 Dessa forma, um catálogo central mundial poderia reunir todos datasets dos catálogos que seguissem esses padrões !
 
 Por último, aos mais ousados, proponho a utilização do sistema de perguntas e respostas da "Escola de Dados" ou "[School of Data](http://schoolofdata.org/)" da Open Knowledge Foundation: <http://ask.schoolofdata.org/>, uma iniciativa nova onde já podem ser encontradas muitas perguntas relevantes sobre dados abertos, dados e assuntos correlatos.
+
+## Licença ##
+
+Todo o conteúdo deste repositório e deste curso está disponível sobre licença [Creative Commons Atribuição (by)](http://creativecommons.org/licenses/by/3.0/br/)
+
+![CC-BY](http://creativecommons.org.br/wp-content/uploads/2012/08/by.large_.png)
+
+
