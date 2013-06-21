@@ -66,7 +66,7 @@ Clique com o Botão direito na única camada disponível: v_uptu_paradas, e sele
 
 Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos pontos, informações como código da localidade, nome da rua, código da rua etc.
 
-![atributes-table](https://dl.dropboxusercontent.com/u/18364240/tabela-de-atributos.jpg)
+![atributes table](https://dl.dropboxusercontent.com/u/18364240/tabela-de-atributos.jpg)
 
 Como estamos fazendo um exercícío, vamos excluir esses dados para reduzir o tamanho do arquivo final que vamos transformar.
 OBSERVAÇÃO IMPORTANTE: lembramos que esses atributos são muito importantes para um desenvolvedor que queira gerar um serviço de qualidade em cima desses dados, como nosso objetivo é didático, vamos reduzir o tamanho do arquivo para facilitar nossa visualização.
@@ -76,7 +76,7 @@ Clique no botão circulado em vermelho na imagem acima, para excluir os campos.
 
 Selecione cada uma das colunas e clique no botão ok.
 
-![columns-for-deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
+![columns for deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
 
 Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar como...". Daqui há várias coisas que precisam ser feitas:
 
@@ -90,7 +90,16 @@ Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar co
 
 ### Visualizando os dados ###
 
-Para visualizar, selecionamos uma biblioteca javascript chamada leaflet
+Como falamos acima, nosso objetivo é criar algumas reflexões sobre a facilidade(ou dificuldade) na visualização de dados disponíveis. Não queremos formar desenvolvedores, tampouco especialistas em uma ou outra ferramenta.
+Portanto, criamos um arquivo HTML simples, baseado em diversos exemplos na web, que recebe o arquivo GeoJSON e pinta os pontos em um mapa.
 
+Para visualizar as paradas de ônibus, selecionamos:
+1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas livre, e não proprietária
+![Open Street Map](http://www.openstreetmap.org/assets/osm_logo-0c85efbce2a8dac886d90b6b3609c55d.png)
+2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no mapa
 ![Leaflet](http://leafletjs.com/docs/images/logo.png)
+
+
+
+
 
