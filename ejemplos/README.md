@@ -142,21 +142,28 @@ como...". Daqui há várias coisas que precisam ser feitas:
 
 ### Visualizando os dados ###
 
-Como falamos acima, nosso objetivo é criar algumas reflexões sobre a facilidade(ou dificuldade) na visualização de dados disponíveis. Não queremos formar desenvolvedores, tampouco especialistas em uma ou outra ferramenta.
-Portanto, criamos um arquivo HTML simples, baseado em diversos exemplos na web, que recebe o arquivo GeoJSON e pinta os pontos em um mapa.
+Como falamos acima, nosso objetivo é criar algumas reflexões sobre a
+facilidade (ou dificuldade) na visualização de dados disponíveis. Não queremos
+formar desenvolvedores, tampouco especialistas em uma ou outra ferramenta.
+Portanto, criamos um arquivo HTML simples, baseado em diversos exemplos na web,
+que recebe o arquivo GeoJSON e pinta os pontos em um mapa.
 
 Para visualizar as paradas de ônibus, selecionamos:
 
-1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas livre, e não proprietária.
+1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas
+   livre, e não proprietária.
 
 ![Open Street Map](http://www.openstreetmap.org/assets/osm_logo-0c85efbce2a8dac886d90b6b3609c55d.png)
 
-2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no mapa.
+2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no
+   mapa.
 
 ![Leaflet](http://leafletjs.com/docs/images/logo.png)
 
-Para os mais vorazes, que gostam de olhar por baixo do capô, mostramos o código do HTML com algumas considerações:
+Para os mais vorazes, que gostam de olhar por baixo do capô, mostramos o código
+do HTML com algumas considerações:
 
+```html
 	<!DOCTYPE html>
 	<html>
 	<head>
@@ -194,25 +201,41 @@ Para os mais vorazes, que gostam de olhar por baixo do capô, mostramos o códig
 		</script>
 	</body>
 	</html>
+```
 
 1. Na linha 13 definimos a área onde o mapa será pintado e seu tamanho
-2. Na linha 15 definimos as coordenadas onde o mapa será aberto e o zoom inicial
-3. Na linha 16 definimos o serviço do qual retiramos as "telhas" (imagens do mapa) e a devida atribuição a essas fontes (o seriviço utilizado para pegar as telhas do Open Street Map foi o [CLoudMade](http://cloudmade.com/)
-4. Na linha 20 carregamos o arquivo GeoJSON e definimos as características do ponto (cor, tamanho etc)
+2. Na linha 15 definimos as coordenadas onde o mapa será aberto e o zoom
+   inicial
+3. Na linha 16 definimos o serviço do qual retiramos as "telhas" (imagens do
+   mapa) e a devida atribuição a essas fontes (o seriviço utilizado para
+   pegar as telhas do Open Street Map foi o [CLoudMade](http://cloudmade.com/)
+4. Na linha 20 carregamos o arquivo GeoJSON e definimos as características do
+   ponto (cor, tamanho etc)
 
-Por fim resta abrir o HTML com o FireFox (o Google Chrome não permite a abertura de arquivos json localmente, não testamos outros navegadores) e visualizar o resultado!
+Por fim resta abrir o HTML com o FireFox (o Google Chrome não permite a
+abertura de arquivos json localmente, não testamos outros navegadores) e
+visualizar o resultado!
 
 ![Mapa final 1](https://dl.dropboxusercontent.com/u/18364240/mapa1.png)
 
 
 ![Mapa final 2](https://dl.dropboxusercontent.com/u/18364240/mapa2.png)
 
-Sim, vai ficar bem pesado, pois são 40 mil paradas de ônibus desenhadas em um mapa.
-No mesmo local onde está o html (<https://github.com/chris-redfield/open-up-with-simplicity>), há um arquivo chamado "metade-paradas-montevideo.zip" dentro da pasta ejemplos. Retiramos algumas paradas para gerar uma visualização mais leve.
+Sim, vai ficar bem pesado, pois são 40 mil paradas de ônibus desenhadas em um
+mapa. No mesmo local onde está o html
+(<https://github.com/chris-redfield/open-up-with-simplicity>), há um arquivo
+chamado "metade-paradas-montevideo.zip" dentro da pasta _ejemplos_. Retiramos
+algumas paradas para gerar uma visualização mais leve.
 
-Essa visualização foi desenvolvida em três horas por dois desenvolvedores, contando a busca por tecnologias e o desenvolvimento do HTML. Uma empresa, uma ONG, ou um cidadão engajado, tem a possibilidade de gerar coisas muito melhores com um maior investimento de tempo.
+Essa visualização foi desenvolvida em três horas por dois desenvolvedores,
+contando a busca por tecnologias e o desenvolvimento do HTML. Uma empresa, uma
+ONG, ou um cidadão engajado, tem a possibilidade de gerar coisas muito melhores
+com um maior investimento de tempo.
 
-Esses benefícios só puderam ser alcançados graças aos dados disponibilizados em um formato aberto pelo governo do Uruguay, uma sugestão que deixaríamos seria a disponibilização também em formato CSV, com as coordenadas das paradas e seus atributos em um só arquivo.
+Esses benefícios só puderam ser alcançados graças aos dados disponibilizados em
+um formato aberto pelo governo do Uruguay, uma sugestão que deixaríamos seria a
+disponibilização também em formato CSV, com as coordenadas das paradas (em
+latitude e longitude) e seus atributos em um só arquivo.
 
 
 ## Licença ##
