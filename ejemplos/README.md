@@ -9,7 +9,8 @@ Em homenagem ao país anfitrião do curso, optamos por utilizar dados de transpo
 
 ### Sobre a apresentação ###
 
-A visualização será muito simples, vamos pintar em um mapa as paradas de ônibus da cidade, provando que seria fácil criar, por exemplo, um aplicativo que localiza a parada de ônibus mais próxima onde passa a linha desejada. IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é altamente factível em menos de uma hora.
+A visualização será muito simples, vamos pintar em um mapa as paradas de ônibus da cidade, provando que seria fácil criar, por exemplo, um aplicativo que localiza a parada de ônibus mais próxima onde passa a linha desejada. 
+OBSERVAÇÃO IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostrar que isso é altamente factível em menos de uma hora. Não pesquisamos se já existem aplicativos que fazem isso na cidade, mas lembramos novamente que o objetivo do exemplo não é criar um aplicativo que faça isso, e sim demonstrar a facilidade para tal.
 
 ## Pré requisitos ###
 
@@ -20,7 +21,7 @@ Para essa atividade vamos precisar de:
 3. Esse html, pré criado pelos professores: <https://github.com/chris-redfield/open-up-with-simplicity/blob/master/ejemplos/paradas-montevideo.html>
 4. Libre Office 4: <http://www.libreoffice.org/download>
 5. Navegador Firefox: <http://www.mozilla.org/en-US/products/download.html?product=firefox-21.0&os=win&lang=en-US>
-6. Paciência e motivação =)
+6. Paciência e motivação!
 
 
 
