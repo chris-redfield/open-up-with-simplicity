@@ -88,5 +88,9 @@ Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar co
 
 ![save layer as](https://dl.dropboxusercontent.com/u/18364240/save-layer-as.jpg)
 
+### Visualizando os dados ###
 
+Para visualizar, selecionamos uma biblioteca javascript chamada leaflet
+
+![Leaflet](http://leafletjs.com/docs/images/logo.png)
 
