@@ -159,7 +159,7 @@ No mesmo local onde está o html (<https://github.com/chris-redfield/open-up-wit
 
 Essa visualização foi desenvolvida em três horas por dois desenvolvedores, contando a busca por tecnologias e o desenvolvimento do HTML. Uma empresa, uma ONG, ou um cidadão engajado, tem a possibilidade de gerar coisas muito melhores com um maior investimento de tempo.
 
-Esses benefícios só puderam ser alcançados graças ao formato de padrão abeto disponibilizado pelo governo do Uruguay, uma sugestão que deixaríamos seria a disponibilização também em formato CSV, com as coordenadas das paradas e seus atributos em um só arquivo.
+Esses benefícios só puderam ser alcançados graças aos dados disponibilizados em um formato aberto pelo governo do Uruguay, uma sugestão que deixaríamos seria a disponibilização também em formato CSV, com as coordenadas das paradas e seus atributos em um só arquivo.
 
 
 ## Licença ##
