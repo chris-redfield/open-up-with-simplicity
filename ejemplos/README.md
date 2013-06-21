@@ -52,7 +52,9 @@ Você obterá um resultado como esse:
 
 ![Paradas no QGis](https://dl.dropboxusercontent.com/u/18364240/bus-stops-QGis.jpg)
 
+Clique com o Botão direito na única camada disponível: v_uptu_paradas, e selecione a opção Abrir tabela de atributos conforme abaixo.
 
+![Abrir tabela de atributos](https://dl.dropboxusercontent.com/u/18364240/open-atribute-table.png)
 
 
 
