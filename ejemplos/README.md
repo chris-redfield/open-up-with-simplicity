@@ -17,25 +17,36 @@ OBSERVAÇÃO IMPORTANTE: Esse exemplo não fará isso!!! Nosso objetivo é mostr
 Para essa atividade vamos precisar de:
 
 1. Esses dados: <https://catalogodatos.gub.uy/dataset/transporte-colectivo-paradas-lineas-puntos-de-control>
-2. Qgis: <http://hub.qgis.org/projects/quantum-gis/wiki/Download>
+2. QuantumGis: <http://hub.qgis.org/projects/quantum-gis/wiki/Download>
 3. Esse html, pré criado pelos professores: <https://github.com/chris-redfield/open-up-with-simplicity/blob/master/ejemplos/paradas-montevideo.html>
 4. Libre Office 4: <http://www.libreoffice.org/download>
 5. Navegador Firefox: <http://www.mozilla.org/en-US/products/download.html?product=firefox-21.0&os=win&lang=en-US>
 6. Paciência e motivação!
 
 
-## Baixando os dados ##
+## Mãos à obra! ##
 
-Na página do dataset no datos.gub.uy, vamos fazer o download das localidades das paradas de ônibus. Escolha o dataset apontado na foto, clique no botao azul e selecione a opção de descarregar.
+### baixando os arquivos ###
+
+Na página do dataset no datos.gub.uy, vamos fazer o download das localidades das paradas de ônibus. Escolha o dataset apontado na foto, clique no botao azul e selecione a opção de descarregar. O arquivo v_uptu_paradas.zip será baixado para sua máquina.
 
 ![datos.gub.uy](https://dl.dropboxusercontent.com/u/18364240/datos.gub.uy.png)
 
 Embora não tenhamos encontrado informações sobre a licença "Uruguay Open Data Licence", acreditamos que a licença autorize a utilização dos dados para esse curso.
 
+Descompacte o zip em uma pasta de sua escolha, você obterá esses arquivos:
+* v_uptu_paradas.dbf
+* v_uptu_paradas.prj
+* v_uptu_paradas.shp
+* v_uptu_paradas.shx
 
+Esses arquivos fazem parte de um ShapeFile, que é um arquivo de especificação aberta para dados geoespaciais. Mais informações sobre shapefiles [aqui](https://en.wikipedia.org/wiki/Shapefile).
 
+### Preparando os arquivos para utilização ###
 
+Abra o QuantumGis(QGis), arraste e solte o v_uptu_paradas.shp para o meio do programa.
 
+![QGis](https://dl.dropboxusercontent.com/u/18364240/drag-and-drop.png)
 
 
 
