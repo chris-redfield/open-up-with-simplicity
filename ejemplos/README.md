@@ -70,6 +70,7 @@ Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos 
 
 Como estamos fazendo um exercícío, vamos excluir esses dados para reduzir o tamanho do arquivo final que vamos transformar.
 OBSERVAÇÃO IMPORTANTE: lembramos que esses atributos são muito importantes para um desenvolvedor que queira gerar um serviço de qualidade em cima desses dados, como nosso objetivo é didático, vamos reduzir o tamanho do arquivo para facilitar nossa visualização.
+OBSERVAÇÃO IMPORTANTE2: Algumas vezes o QGis não permite deletar essas colunas, nesse caso você vai abrir o .dbf com o Libre Office Calc e apagar as colunas manualmente (tem que ser libre office 4, se seu Sistema Operacional for Linux, você também devera instalar o [Libre Office Base](http://pt-br.libreoffice.org/libreoffice/base/)). Ainda não sabemos se é possível simplesmente apagar o arquivo .dbf :)
 
 Clique no botão circulado em vermelho na imagem acima, para excluir os campos. 
 
