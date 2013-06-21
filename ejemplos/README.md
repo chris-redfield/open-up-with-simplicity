@@ -54,11 +54,16 @@ Para essa atividade vamos precisar de:
 
 ### baixando os arquivos ###
 
-Na página do dataset no datos.gub.uy, vamos fazer o download das localidades das paradas de ônibus. Escolha o dataset apontado na foto, clique no botao azul e selecione a opção de descarregar. O arquivo v_uptu_paradas.zip será baixado para sua máquina.
+Na página do dataset no datos.gub.uy, vamos fazer o download das localidades
+das paradas de ônibus. Escolha o dataset apontado na foto, clique no botão
+azul e selecione a opção de descarregar. O arquivo v_uptu_paradas.zip será
+baixado para sua máquina.
 
 ![datos.gub.uy](https://dl.dropboxusercontent.com/u/18364240/datos.gub.uy.png)
 
-Embora não tenhamos encontrado informações sobre a licença "Uruguay Open Data Licence", acreditamos que a licença autorize a utilização dos dados para esse curso.
+Embora não tenhamos encontrado informações sobre a licença _"Uruguay Open Data
+Licence"_, acreditamos que a licença autorize a utilização dos dados para esse
+curso.
 
 Descompacte o zip em uma pasta de sua escolha, você obterá esses arquivos:
 * v_uptu_paradas.dbf
@@ -66,13 +71,20 @@ Descompacte o zip em uma pasta de sua escolha, você obterá esses arquivos:
 * v_uptu_paradas.shp
 * v_uptu_paradas.shx
 
-Esses arquivos fazem parte de um ShapeFile, que é um arquivo de especificação aberta para dados geoespaciais. Mais informações sobre shapefiles [aqui](https://en.wikipedia.org/wiki/Shapefile).
+Esses arquivos fazem parte de um ShapeFile, que é um arquivo de
+especificação aberta para dados geoespaciais. Mais informações sobre
+shapefiles [aqui](https://en.wikipedia.org/wiki/Shapefile).
 
-Agora, poderíamos buscar uma solução simples, converter o ShapeFile para CSV e visualizar no [Google Maps Engine](https://mapsengine.google.com), mas temos duas questões:
+Agora, poderíamos buscar uma solução simples, converter o ShapeFile para CSV
+pelo Quantum GIS e visualizar no [Google Maps
+Engine](https://mapsengine.google.com), mas temos duas questões:
+
 1. Seria fácil demais, somos guerreiros e vamos tomar o caminho mais difícil buscando o aprendizado!
 2. Na verdade o google maps engine só aceita 100 pontos por arvquivo csv, e nós queremos volume! O arquivo possui 40 mil paradas de ônibus e queremos visualizar todas.
 
-Sabemos que existem outras soluções que permitiriam fazer coisas como essa, mas as que conhecemos são proprietárias, então vamos propor utilizar soluções livres e gratuitas, ao alcance de todos!
+Sabemos que existem outras soluções que permitiriam fazer coisas como essa, mas
+as que conhecemos são proprietárias, então vamos propor utilizar soluções
+livres e gratuitas, ao alcance de todos!
 
 ### Preparando os arquivos para utilização ###
 
