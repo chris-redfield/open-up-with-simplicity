@@ -193,7 +193,36 @@ O protocolo propõe:
 
 Dessa forma, um catálogo central mundial poderia reunir todos datasets dos catálogos que seguissem esses padrões !
 
-Por último, aos mais ousados, proponho a utilização do sistema de perguntas e respostas da "Escola de Dados" ou "[School of Data](http://schoolofdata.org/)" da Open Knowledge Foundation: <http://ask.schoolofdata.org/>, uma iniciativa nova onde já podem ser encontradas muitas perguntas relevantes sobre dados abertos, dados e assuntos correlatos.
+### Canais da comunidade e de aprendizagem ###
+
+Há vários meios por onde entrar em contato com pessoas interessadas em dados
+abertos, ficar por dentro do que está acontecendo e aprender mais sobre o
+assunto.
+
+Para os que dominam o idioma inglês, sugerimos a utilizar o sistema
+de perguntas e respostas da "Escola de Dados" ou
+"_[School of Data](http://schoolofdata.org/)_" da _Open Knowledge Foundation_:
+<http://ask.schoolofdata.org/>, uma iniciativa nova onde já podem ser
+encontradas muitas perguntas relevantes sobre dados abertos, dados e assuntos
+correlatos. A Fundação também possui listas de discussão relacionadas à
+[escola de dados](http://lists.okfn.org/mailman/listinfo/school-of-data) e a
+[dados governamentais abertos](http://lists.okfn.org/mailman/listinfo/open-government).
+
+Em idioma português, temos no Brasil a [lista do GT de Dados Abertos do
+W3C](https://mail.nic.br/mailman/listinfo/gt-dadosabertos) e
+as [listas de discussão da
+INDA](http://wiki.gtinda.ibge.gov.br/Como-Participar-da-INDA.ashx), que são 5
+listas. Uma para assuntos gerais e quatro assuntos específicos. Há ainda a
+[lista de discussões da _Open Knowledge Foundation_ no
+Brasil](http://lists.okfn.org/mailman/listinfo/okfn-br).
+
+Em espanhol, a OKF mantém uma [lista sobre dados abertos para a América
+Latina](http://lists.okfn.org/mailman/listinfo/okfn-latin-america) e
+também listas focadas nos seguintes países:
+[Argentina](http://lists.okfn.org/mailman/listinfo/okfn-ar),
+[Equador](http://lists.okfn.org/mailman/listinfo/okfn-ec),
+[Uruguai](http://lists.okfn.org/mailman/listinfo/okfn-uy) e
+[México](http://lists.okfn.org/mailman/listinfo/okfn-mx).
 
 ## Licença ##
 
