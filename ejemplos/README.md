@@ -68,9 +68,14 @@ Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos 
 
 ![atributes-table](https://dl.dropboxusercontent.com/u/18364240/tabela-de-atributos.jpg)
 
+Como estamos fazendo um exercícío, vamos excluir esses dados para reduzir o tamanho do arquivo final que vamos transformar.
+OBSERVAÇÃO IMPORTANTE: lembramos que esses atributos são muito importantes para um desenvolvedor que queira gerar um serviço de qualidade em cima desses dados, como nosso objetivo é didático, vamos reduzir o tamanho do arquivo para facilitar nossa visualização.
 
+Clique no botão circulado em vermelho na imagem acima, para excluir os campos. 
 
+Selecione cada uma das colunas e clique no botão excluir
 
+![columns-for-deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
 
 
 
