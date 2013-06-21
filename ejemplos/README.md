@@ -96,9 +96,11 @@ Portanto, criamos um arquivo HTML simples, baseado em diversos exemplos na web, 
 Para visualizar as paradas de ônibus, selecionamos:
 
 1. O [Open Street Map](http://www.openstreetmap.org/), uma solução de mapas livre, e não proprietária
+
 ![Open Street Map](http://www.openstreetmap.org/assets/osm_logo-0c85efbce2a8dac886d90b6b3609c55d.png)
 
 2. O Leaflet, uma biblioteca que facilita o trabalho de "pintar" os pontos no mapa
+
 ![Leaflet](http://leafletjs.com/docs/images/logo.png)
 
 
