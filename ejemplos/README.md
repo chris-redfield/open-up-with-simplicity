@@ -120,6 +120,7 @@ Para os mais vorazes, que gostam de olhar por baixo do capô, mostramos o códig
 		<div id="map" style="width:800px; height:480px;"></div>
 		<script type="text/javascript">
 			var map = L.map('map').setView([-34.906417,-56.199238], 14);
+			//Don't be bad about the API key, we are leaving on the code for a good cause :/
 			L.tileLayer('http://{s}.tile.cloudmade.com/91e81d26d1c949c7aeb49b86f8381ad3/997/256/{z}/{x}/{y}.png', {
 				attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
 				maxZoom: 18
