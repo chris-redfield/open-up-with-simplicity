@@ -88,7 +88,8 @@ livres e gratuitas, ao alcance de todos!
 
 ### Preparando os arquivos para utilização ###
 
-Abra o QuantumGis(QGis), arraste e solte o v_uptu_paradas.shp para o meio do programa.
+Abra o QuantumGis(QGis), arraste e solte o v_uptu_paradas.shp para o meio do
+programa.
 
 ![QGis](https://dl.dropboxusercontent.com/u/18364240/drag-and-drop.png)
 
@@ -96,19 +97,31 @@ Você obterá um resultado como esse:
 
 ![Paradas no QGis](https://dl.dropboxusercontent.com/u/18364240/bus-stops-QGis.jpg)
 
-Ahá!!! já dá pra ter noção do resultado final, agora só precisamos de um mapinha onde pintar os pontos.
+Ahá!!! já dá pra ter noção do resultado final, agora só precisamos de um
+mapinha onde pintar os pontos.
 
-Clique com o Botão direito na única camada disponível: v_uptu_paradas, e selecione a opção Abrir tabela de atributos conforme abaixo.
+Clique com o botão direito na única camada disponível (v_uptu_paradas) e
+selecione a opção "Abrir tabela de atributos", conforme abaixo.
 
 ![Abrir tabela de atributos](https://dl.dropboxusercontent.com/u/18364240/open-atribute-table.png)
 
-Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos pontos, informações como código da localidade, nome da rua, código da rua etc.
+Essa tabela de atributos carrega os dados do .dbf, que contém os atributos dos
+pontos, informações como código da localidade, nome da rua, código da rua etc.
 
 ![atributes table](https://dl.dropboxusercontent.com/u/18364240/tabela-de-atributos.jpg)
 
-Como estamos fazendo um exercícío, vamos excluir esses dados para reduzir o tamanho do arquivo final que vamos transformar.
-OBSERVAÇÃO IMPORTANTE: lembramos que esses atributos são muito importantes para um desenvolvedor que queira gerar um serviço de qualidade em cima desses dados, como nosso objetivo é didático, vamos reduzir o tamanho do arquivo para facilitar nossa visualização.
-OBSERVAÇÃO IMPORTANTE2: Algumas vezes o QGis não permite deletar essas colunas, nesse caso você vai abrir o .dbf com o Libre Office Calc e apagar as colunas manualmente (tem que ser libre office 4, se seu Sistema Operacional for Linux, você também devera instalar o [Libre Office Base](http://pt-br.libreoffice.org/libreoffice/base/)). Ainda não sabemos se é possível simplesmente apagar o arquivo .dbf :)
+Como estamos fazendo um exercícío, vamos excluir esses dados para reduzir o
+tamanho do arquivo final que vamos transformar.
+**OBSERVAÇÃO IMPORTANTE:** lembramos que esses atributos são muito importantes
+para um desenvolvedor que queira gerar um serviço de qualidade em cima desses
+dados, como nosso objetivo é didático, vamos reduzir o tamanho do arquivo para
+facilitar nossa visualização.
+**OBSERVAÇÃO IMPORTANTE 2:** Algumas vezes o QGis não permite deletar essas
+colunas. Nesse caso, você vai abrir o .dbf com o LibreOffice Calc e apagar as
+colunas manualmente (tem que ser LibreOffice versão 4 ou superior; se seu
+Sistema Operacional for Linux, você também devera instalar o [Libre Office
+Base](http://pt-br.libreoffice.org/libreoffice/base/)). Ainda não sabemos se é
+possível simplesmente apagar o arquivo .dbf :)
 
 Clique no botão circulado em vermelho na imagem acima, para excluir os campos. 
 
@@ -116,12 +129,13 @@ Selecione cada uma das colunas e clique no botão ok.
 
 ![columns for deletion](https://dl.dropboxusercontent.com/u/18364240/delete-atributes.png)
 
-Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar como...". Daqui há várias coisas que precisam ser feitas:
+Agora clique novamente na camada v_uptu_paradas e selecione a opção "salvar
+como...". Daqui há várias coisas que precisam ser feitas:
 
-1. Selecione o formato GeoJSON
+1. Selecione o formato [GeoJSON](http://geojson.org/)
 2. Selecione a mesma pasta onde você baixou o HTML do curso 
-3. Dê esse nome ao arquivo paradas-montevideo.geojson
-3. Selecione o formato WGS84 (o que está escrito somente WGS84, não é o WGS84 / UTM zone 21S)
+3. Dê o seguinte nome ao arquivo: paradas-montevideo.geojson
+3. Selecione o sistema de coordenadas WGS84 (o que está escrito somente WGS84, não é o WGS84 / UTM zone 21S; ao buscar, observe o código EPSG 4326). Esse sistema representa as coordenadas por pares latitude / longitude.
 4. Pressione "ok" para salvar!
 
 ![save layer as](https://dl.dropboxusercontent.com/u/18364240/save-layer-as.jpg)
