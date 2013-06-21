@@ -157,3 +157,9 @@ Por fim resta abrir o HTML com o FireFox (o Google Chrome não permite a abertur
 Sim, vai ficar bem pesado, pois são 40 mil paradas de ônibus desenhadas em um mapa.
 No mesmo local onde está o html (<https://github.com/chris-redfield/open-up-with-simplicity>), há um arquivo chamado "metade-paradas-montevideo.zip" dentro da pasta ejemplos. Retiramos algumas paradas para gerar uma visualização mais leve.
 
+Essa visualização foi desenvolvida em três horas por dois desenvolvedores, contando a busca por tecnologias e o desenvolvimento do HTML. Uma empresa, uma ONG, ou um cidadão engajado, tem a possibilidade de gerar coisas muito melhores com um maior investimento de tempo.
+
+Esses benefícios só puderam ser alcançados graças ao formato de padrão abeto disponibilizado pelo governo do Uruguay, uma sugestão que deixaríamos seria a disponibilização também em formato CSV, com as coordenadas das paradas e seus atributos em um só arquivo.
+
+
+
